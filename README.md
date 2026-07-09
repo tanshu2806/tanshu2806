@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development of Web and Android.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on nothing right now, no one knows the future.
-- 📫 How to reach me : Just email me at tanshutanishk2806@gmail.com
+- 📫 How to reach me : Just email me at tanishktanshu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
