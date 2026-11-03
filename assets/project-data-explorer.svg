@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="170" viewBox="0 0 460 170" role="img" aria-labelledby="title desc">
+<title id="title">Data Explorer CLI</title><desc id="desc">A Python command-line tool for exploring and cleaning CSV datasets.</desc>
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#192b3c"/><stop offset="1" stop-color="#17192d"/></linearGradient><linearGradient id="b"><stop stop-color="#51e6b1"/><stop offset="1" stop-color="#39b9ff"/></linearGradient></defs>
+<rect x="1" y="1" width="458" height="168" rx="18" fill="url(#a)" stroke="#31515b" stroke-width="2"/>
+<circle cx="30" cy="28" r="5" fill="#ff6b8a"/><circle cx="48" cy="28" r="5" fill="#ffd166"/><circle cx="66" cy="28" r="5" fill="#5ee6a8"/>
+<rect x="24" y="52" width="58" height="58" rx="17" fill="#1f3945"/><path d="M40 70l9 10-9 10m15 2h13" fill="none" stroke="url(#b)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="72" fill="#8bafbd" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">SIDE QUEST 02 · DATA TOOLS</text>
+<text x="102" y="101" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="23" font-weight="700">Data Explorer CLI</text>
+<text x="102" y="126" fill="#aab8d5" font-family="Arial,sans-serif" font-size="13">CSV explorer · Python · Pandas · NumPy</text>
+<rect x="24" y="137" width="412" height="1" fill="#31515b"/>
+<text x="24" y="157" fill="#5ee6b1" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">OPEN REPOSITORY</text><path d="M419 149h12m-5-5 5 5-5 5" fill="none" stroke="#5ee6b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
