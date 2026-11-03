@@ -28,11 +28,13 @@
 
 ## 🎮 Projects in the wild
 
-| Side quest | What happens there |
-| --- | --- |
-| 🧠 [**ML Practicals**](https://github.com/tanshu2806/ML-Practicals) | Notebook and Python experiments exploring machine learning concepts. |
-| 🐍 [**Data Explorer CLI**](https://github.com/tanshu2806/DataExplorerCLI) | Inspect CSVs, find missing values, and clean up datasets from the command line. |
-| ⚙️ [**BOM Reviewer**](https://github.com/tanshu2806/BOM-reviewer) | A prototype that checks engineering drawings against bills of materials. |
+<p align="center">
+  <a href="https://github.com/tanshu2806/ML-Practicals"><img src="./assets/project-ml-practicals.svg" width="48%" alt="ML Practicals project card" /></a>
+  <a href="https://github.com/tanshu2806/DataExplorerCLI"><img src="./assets/project-data-explorer.svg" width="48%" alt="Data Explorer CLI project card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/tanshu2806/BOM-reviewer"><img src="./assets/project-bom-reviewer.svg" width="48%" alt="BOM Reviewer project card" /></a>
+</p>
 
 ## 🧰 Inventory
 
