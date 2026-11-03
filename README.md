@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:FF4ECD&height=220&section=header&text=Tanshu%20Tanishk&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CODE%20%7C%20DATA%20%7C%20IDEAS&descAlignY=60&descSize=18" width="100%" alt="Colorful animated banner reading Tanshu Tanishk" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:FF4ECD&height=220&section=header&text=Tanshu%20Tanishk&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=TRAINING%20MODELS%20%7C%20COLLECTING%20BUGS&descAlignY=60&descSize=17" width="100%" alt="Colorful animated banner reading Tanshu Tanishk" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Engineering+student+%F0%9F%8E%93;Python+%26+data+explorer+%F0%9F%90%8D;Learning+web+development+%F0%9F%8C%90;Building+cool+things%2C+one+project+at+a+time+%E2%9C%A8" alt="Animated intro: engineering student, Python and data explorer, learning web development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+student+%F0%9F%8E%93;Learning+ML%2C+AI+%26+deep+learning+%F0%9F%A4%96;Python+builder+%F0%9F%90%8D;Teaching+machines+to+learn+(and+teaching+myself)+%E2%9C%A8" alt="Animated intro about engineering, ML, AI, deep learning, and Python" />
 </a>
 
 <br />
@@ -18,30 +18,40 @@
 
 ---
 
-## 🪄 A little about me
+## 🤖 Human currently teaching machines
 
-🎓 Engineering student exploring the worlds of **Python, data, and AI/ML**  
-🌱 Currently learning **web development** and making things along the way  
-🧪 I like turning curious ideas into practical projects  
-🤝 Always up for learning something new with other builders
+🎓 Engineering student, Python tinkerer, and aspiring ML explorer  
+🧠 Currently learning **machine learning, AI, and deep learning**  
+🔧 Building projects around data and intelligent systems  
+🌐 Also learning web development, because apparently one rabbit hole wasn't enough  
+☕ Current research question: *Can this model learn the pattern, or did I just teach it my mistakes?*
 
-## 🚀 Things I’ve been building
+## 🎮 Projects in the wild
 
 <div align="center">
 
-<a href="https://github.com/tanshu2806/BOM-reviewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=BOM-reviewer&theme=tokyonight&hide_border=true" alt="BOM Reviewer repository card" />
+<a href="https://github.com/tanshu2806/ML-Practicals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=ML-Practicals&theme=tokyonight&hide_border=true" alt="Machine Learning Lab Practicals repository card" />
 </a>
 <a href="https://github.com/tanshu2806/DataExplorerCLI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=DataExplorerCLI&theme=tokyonight&hide_border=true" alt="Data Explorer CLI repository card" />
 </a>
-<a href="https://github.com/tanshu2806/TE-Major-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=TE-Major-Project&theme=tokyonight&hide_border=true" alt="Marathi comment collection prototypes repository card" />
+<a href="https://github.com/tanshu2806/BOM-reviewer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=BOM-reviewer&theme=tokyonight&hide_border=true" alt="BOM Reviewer repository card" />
 </a>
 
 </div>
 
-## ⚡ My current toolkit
+<details>
+<summary>🕹️ What’s in those project boxes?</summary>
+
+- **ML Practicals** — notebook and Python experiments covering machine learning concepts.
+- **Data Explorer CLI** — inspect CSVs, find missing values, and clean up datasets from the command line.
+- **BOM Reviewer** — a prototype that checks engineering drawings against bills of materials.
+
+</details>
+
+## 🧰 Inventory
 
 <div align="center">
 
@@ -53,7 +63,7 @@
 
 </div>
 
-## 📊 GitHub in motion
+## 📈 The stats corner
 
 <div align="center">
 
@@ -70,8 +80,8 @@
 
 <div align="center">
 
-### 🌈 Thanks for stopping by!
+### ✨ Thanks for visiting my little corner of GitHub!
 
-*Stay curious. Keep building.*
+*May your models converge and your bugs be easy to Google.*
 
 </div>
