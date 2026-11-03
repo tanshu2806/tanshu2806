@@ -36,6 +36,16 @@
   <a href="https://github.com/tanshu2806/BOM-reviewer"><img src="./assets/project-bom-reviewer.svg" width="48%" alt="BOM Reviewer project card" /></a>
 </p>
 
+## 🐍 The contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanshu2806/tanshu2806/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanshu2806/tanshu2806/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/tanshu2806/tanshu2806/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
+
 ## 🧰 Inventory
 
 <div align="center">
