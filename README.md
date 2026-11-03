@@ -28,28 +28,11 @@
 
 ## 🎮 Projects in the wild
 
-<div align="center">
-
-<a href="https://github.com/tanshu2806/ML-Practicals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=ML-Practicals&theme=tokyonight&hide_border=true" alt="Machine Learning Lab Practicals repository card" />
-</a>
-<a href="https://github.com/tanshu2806/DataExplorerCLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=DataExplorerCLI&theme=tokyonight&hide_border=true" alt="Data Explorer CLI repository card" />
-</a>
-<a href="https://github.com/tanshu2806/BOM-reviewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanshu2806&repo=BOM-reviewer&theme=tokyonight&hide_border=true" alt="BOM Reviewer repository card" />
-</a>
-
-</div>
-
-<details>
-<summary>🕹️ What’s in those project boxes?</summary>
-
-- **ML Practicals** — notebook and Python experiments covering machine learning concepts.
-- **Data Explorer CLI** — inspect CSVs, find missing values, and clean up datasets from the command line.
-- **BOM Reviewer** — a prototype that checks engineering drawings against bills of materials.
-
-</details>
+| Side quest | What happens there |
+| --- | --- |
+| 🧠 [**ML Practicals**](https://github.com/tanshu2806/ML-Practicals) | Notebook and Python experiments exploring machine learning concepts. |
+| 🐍 [**Data Explorer CLI**](https://github.com/tanshu2806/DataExplorerCLI) | Inspect CSVs, find missing values, and clean up datasets from the command line. |
+| ⚙️ [**BOM Reviewer**](https://github.com/tanshu2806/BOM-reviewer) | A prototype that checks engineering drawings against bills of materials. |
 
 ## 🧰 Inventory
 
@@ -60,19 +43,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 📈 The stats corner
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanshu2806&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats card" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanshu2806&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages card" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=tanshu2806&theme=tokyonight&hide_border=true" alt="GitHub contribution streak card" />
 
 </div>
 
